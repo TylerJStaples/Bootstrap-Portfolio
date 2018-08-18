@@ -1,0 +1,9 @@
+#para{
+    float: right;
+    text-align: left;
+    width: 75%;
+}
+#pic{
+    float: left;
+    width: 25%;
+}
